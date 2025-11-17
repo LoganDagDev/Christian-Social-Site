@@ -7,4 +7,4 @@ There are many ways to contribute to this project, you can fork, copy, or clone 
 If you want to contribute via feedback on current versions or other things, i.e. current code or development, please also either make and issue or bring it up in the discussions as well.
 
 ## Documentation
-Contributing to documentation of current versions their new features (if any) and what was changed.
+Contributing to documentation of current versions their new features (if any) and what was changed. Docs can be found under the docs folder and the Wiki Page for now. If you want to contribute to the docs, please use the Documentation in the "Docs" folder, once reviewed and approved, it will be published to the wiki and any other related page. Thank you!
