@@ -18,4 +18,4 @@ Using the following languages as well:
 * JavaScript
 
 ## Preview and Joining
-Once a week, this will be pulled, reivewed, and then published with the updates to the main website at [Christian Social Site.](https://css.logandag.dev) Updates and security support and updates will be on the "Security Tab" of the GitHub.
+Once a week, this will be pulled, reviewed, and then published with the updates to the main website at [Christian Social Site.](https://css.logandag.dev) Updates and security support and updates will be on the "Security Tab" of the GitHub.
