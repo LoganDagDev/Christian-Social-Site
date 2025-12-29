@@ -1,0 +1,2 @@
+### BackEnd Purpose
+The purpose of this folder is to include the files  to the Back End functionality of the website. This includes, but limited to, Logging in PHP files, Submission handling Files, and anything of the sort needed for the website to handle things via the web-server. Anything else, goes into the *includes* folder. Any questions can be submitted on the discord or the Github under discussions or Issues for review.

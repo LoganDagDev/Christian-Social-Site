@@ -1,0 +1,2 @@
+### Includes Purpose
+The purpsoe of this folder is to house files that are to be included into the website. These, however, will not be files pertinent to the *Back End* functionality of the website, that will be in the *BackEnd* folder. This  will include files that will be used globally and changed globally as well, i.e. a header or footer files, universal forms that can be "included" in with PHP, and so forth. All Back End related things, like for handling and web-server processing, should be in the *BackEnd* folder.
