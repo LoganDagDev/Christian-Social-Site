@@ -3,4 +3,10 @@
 Will have info and work on the "live" production version of the website.
 Variables and code here will be blank for security reasons.
 */
+$username = '';
+$password = '';
+$db_name = '';
+$db_host = '';
+
+$SQL = '';
 ?>
